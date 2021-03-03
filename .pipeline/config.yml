@@ -2,7 +2,7 @@ general:
   set verbose: true
 stage:
   gctsExecuteABAPUnitTests:
-    host: 'https://fc-pun01-hana.india.rapidigm.com:8001'
-    client: '300'
-    abapCredentialsId: 'ABAPUserPasswordCredentialsId'
-    repository: 'DEV003'
+        host: 'phlhdr07.phl.sap.corp:8001',
+        client: '200',
+        abapCredentialsId: 'ABAPUserPasswordCredentialsId',
+        repository: 'fordtest2','
