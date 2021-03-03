@@ -5,10 +5,10 @@ node() {
   stage('Deploy') {
     gctsDeploy(
         script: this,
-        host: 'https://fc-pun01-hana.india.rapidigm.com:8001',
-        client: '300',
+        host: 'phlhdr07.phl.sap.corp:8001',
+        client: '200',
         abapCredentialsId: 'ABAPUserPasswordCredentialsId',
-        repository: 'DEV003',
+        repository: 'fordtest2',
       )
   }
 }
