@@ -1,7 +1,7 @@
 general:
   set verbose: true
 stage:
-  gctsExecuteABAPUnitTests:
+  gctsDeploy:
         host: 'phlhdr07.phl.sap.corp:8001',
         client: '200',
         abapCredentialsId: 'ABAPUserPasswordCredentialsId',
