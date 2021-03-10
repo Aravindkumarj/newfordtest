@@ -6,5 +6,4 @@ stage:
         client: '200',
         username: 'I058626',
         password: 'Rsbdcos0',
-        abapCredentialsId: 'ABAPUserPasswordCredentialsId',
-        repository: 'fordtest2','
+        repository: 'fordtest2'
