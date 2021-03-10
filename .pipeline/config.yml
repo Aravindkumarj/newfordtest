@@ -1,5 +1,3 @@
-general:
-  set verbose: true
 stage:
   gctsDeploy:
         host: 'phlhdr07.phl.sap.corp:8001',
