@@ -8,7 +8,7 @@ node() {
   }
   stage('Deploy') {
     gctsDeploy(
-        script: this
+        script: this,
         host: 'phlhdr07.phl.sap.corp:8001',
         client: '200',
         username: 'I058626',
