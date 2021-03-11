@@ -13,7 +13,7 @@ node() {
         client: '200',
         username: 'I058626',
         password: 'Rsbdcos0',
-        repository: 'fordtest2'
+        repository: 'fordtest'
       )
   }
 }
