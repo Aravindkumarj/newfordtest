@@ -9,7 +9,7 @@ node() {
   stage('Deploy') {
     gctsDeploy(
         script: this,
-        host: 'phlhdr07.phl.sap.corp:8011',
+        host: 'http://phlhdr07.phl.sap.corp:8011',
         client: '200',
         username: 'I058626',
         password: 'Rsbdcos0',
